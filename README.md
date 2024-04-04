@@ -10,11 +10,4 @@ a ser realizada (soma, subtração, produto, divisão e fatorial)
 5) Calcular o fatorial usando loop dentro de uma função auxiliar própria
 6) Os fatoriais de 0 e de 1 são iguais a 1
 7) O fatorial de um número N > 1 é 1x2x...x(N-1)xN
-8) A página deve mostrar alertas, e não efetuar as operações, se:
-
-- A operação selecionada for fatorial e o primeiro número digitado não
-for um número inteiro, e maior ou igual a zero (usar a função
-Number.isInteger())
-
-- A operação selecionada for divisão e o segundo número digitado for
-igual a zero
+8) A página deve mostrar alertas, e não efetuar as operações, se: A operação selecionada for fatorial e o primeiro número digitado não for um número inteiro, e maior ou igual a zero (usar a função Number.isInteger()) & A operação selecionada for divisão e o segundo número digitado for igual a zero
