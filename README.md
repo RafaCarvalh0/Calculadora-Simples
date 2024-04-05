@@ -1,13 +1,12 @@
-# Atividade da cadeira de Front-end
+# Front-end Chair Activity
 
-## Requisitos
+## Requirements
 
-1) Criar uma página calculadora estilizada 
-2) Dois campos para entrada de valores numéricos
-3) Um conjunto de radio buttons para o usuário selecionar a operação
-a ser realizada (soma, subtração, produto, divisão e fatorial)
-4) A operação de fatorial será aplicada ao primeiro número digitado (ignorando o segundo campo)
-5) Calcular o fatorial usando loop dentro de uma função auxiliar própria
-6) Os fatoriais de 0 e de 1 são iguais a 1
-7) O fatorial de um número N > 1 é 1x2x...x(N-1)xN
-8) A página deve mostrar alertas, e não efetuar as operações, se: A operação selecionada for fatorial e o primeiro número digitado não for um número inteiro, e maior ou igual a zero (usar a função Number.isInteger()) & A operação selecionada for divisão e o segundo número digitado for igual a zero
+1) Create a styled calculator page
+2) Two fields for entering numeric values
+3) A set of radio buttons for the user to select the operation to be performed (addition, subtraction, multiplication, division, and factorial)
+4) The factorial operation will be applied to the first entered number (ignoring the second field)
+5) Calculate the factorial using a loop within its own auxiliary function
+6) Factorials of 0 and 1 are equal to 1
+7) The factorial of a number N > 1 is 1x2x...x(N-1)xN
+8) The page should display alerts and not perform operations if: The selected operation is factorial and the first entered number is not an integer and greater than or equal to zero (use the Number.isInteger() function) & The selected operation is division and the second entered number is equal to zero
